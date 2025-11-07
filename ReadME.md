@@ -57,11 +57,6 @@ We offer a Docker image with pre-downloaded weights for easy setup:
    git pull
    ```
 
-4. After use, restrict X server access:
-   ```bash
-   xhost -local:docker
-   ```
-
 #### Docker Requirements
 
 To use GPU support, install the `nvidia-docker2` package. For Ubuntu-based distributions:
