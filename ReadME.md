@@ -94,11 +94,17 @@ These files demonstrate how to set up your data and run inference using HybridVN
 If you use this code in your research, please cite our paper:
 
 ```
-@article{gaggion2023multi,
-  title={Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh Reconstruction in Cardiovascular MRI},
-  author={Gaggion, Nicol{\'a}s and Matheson, Benjamin A and Xia, Yan and Bonazzola, Rodrigo and Ravikumar, Nishant and Taylor, Zeike A and Milone, Diego H and Frangi, Alejandro F and Ferrante, Enzo},
-  journal={arXiv preprint arXiv:2311.13706},
-  year={2023}
+@article{GAGGION2025103630,
+title = {Multi-view hybrid graph convolutional network for volume-to-mesh reconstruction in cardiovascular MRI},
+journal = {Medical Image Analysis},
+volume = {104},
+pages = {103630},
+year = {2025},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2025.103630},
+url = {https://www.sciencedirect.com/science/article/pii/S136184152500177X},
+author = {Nicolás Gaggion and Benjamin A. Matheson and Yan Xia and Rodrigo Bonazzola and Nishant Ravikumar and Zeike A. Taylor and Diego H. Milone and Alejandro F. Frangi and Enzo Ferrante},
+keywords = {Cardiac imaging, Geometric deep learning, Hybrid graph convolutional neural network, Volume-to-mesh},
 }
 ```
 
